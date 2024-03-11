@@ -1,0 +1,49 @@
+{
+  "name": "stylesheets-for-viewports",
+  "version": "1.0.0",
+  "description": "Lightweight react native lib for using different stylesheets based on current viewport (width, scale, etc.)",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "keywords": [
+    "react native",
+    "stylesheets",
+    "responsive",
+    "viewports",
+    "react native web"
+  ],
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "clear-build-folder": "rm -rf ./build",
+    "transpile": "tsc",
+    "fix-paths": "tsc-alias",
+    "build": "yarn clear-build-folder && yarn transpile && yarn fix-paths",
+    "dev": "yarn nodemon"
+  },
+  "files": [
+    "build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks-io/stylesheets-for-viewports.git"
+  },
+  "author": "Markus Kurzmann <markus@kurzmann.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maks-io/stylesheets-for-viewports/issues"
+  },
+  "homepage": "https://github.com/maks-io/stylesheets-for-viewports#readme",
+  "devDependencies": {
+    "@types/react": "~18.2.64",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.4",
+    "tsc": "^2.0.4",
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.4.2"
+  }
+}
