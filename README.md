@@ -10,7 +10,7 @@ Lightweight <strong>react native</strong> library for using different stylesheet
 
 ## Live Demos
 
-COMING SOON
+Check out the [Live Demo here](https://snack.expo.dev/@maks-io/stylesheets-for-viewports-demo) (Expo Snack).
 
 ## Installation
 
