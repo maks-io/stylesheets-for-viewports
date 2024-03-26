@@ -10,7 +10,7 @@ Lightweight <strong>react native</strong> library for using different stylesheet
 
 ## Live Demos
 
-Check out the [Live Demo here](https://snack.expo.dev/@maks-io/stylesheets-for-viewports-demo) (Expo Snack).
+Check out the [Live Demo here](https://snack.expo.dev/@maks-io/stylesheets-for-viewports-demo?platform=web) (Expo Snack).
 
 ## Installation
 
@@ -118,6 +118,6 @@ The library also exports the internally used `useResponsiveDimensions` hook. Fee
 }
 ```
 
-## Misc
+## If you enjoy using this...
 
-COMING SOON
+<a href="https://www.buymeacoffee.com/maks_io" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px !important;" ></a>
