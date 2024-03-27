@@ -1,6 +1,6 @@
 {
   "name": "stylesheets-for-viewports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight react native lib for using different stylesheets based on current viewport (width, scale, etc.)",
   "main": "build/index.js",
   "types": "build/index.d.ts",

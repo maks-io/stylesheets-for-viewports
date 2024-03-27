@@ -6,7 +6,7 @@ Lightweight <strong>react native</strong> library for using different stylesheet
 
 ## Demo
 
-<img src="documentation/stylesheets-for-viewports-gif-01.gif" alt="demo-gif">
+<a href="https://youtube.com/shorts/eJncOdHndys?feature=share"><img src="documentation/stylesheets-for-viewports-gif-02.gif" alt="demo-gif"></a>
 
 ## Live Demos
 
